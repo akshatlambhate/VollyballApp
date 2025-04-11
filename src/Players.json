@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "name": "Akshat",
+    "skill": 5
+},
+{
+    "id": 2,
+    "name": "Abhay Bhaiya",
+    "skill": 5
+},
+{
+    "id": 3,
+    "name": "Dauu",
+    "skill": 5
+},
+{
+    "id": 4,
+    "name": "Vivek ",
+    "skill": 5
+},
+{
+    "id": 5,
+    "name": "Krishna",
+    "skill": 4
+},
+{
+    "id": 6,
+    "name": "Saani",
+    "skill": 4
+},
+{
+    "id": 7,
+    "name": "Vatsal",
+    "skill": 4
+},
+{
+    "id": 8,
+    "name": "Aadersh",
+    "skill": 3
+},
+{
+    "id": 9,
+    "name": "Aanay",
+    "skill": 4
+},
+{
+    "id": 10,
+    "name": "Mradrul",
+    "skill": 2
+},
+{
+    "id": 11,
+    "name": "Jatin",
+    "skill": 5
+},
+{
+    "id": 12,
+    "name": "Yuvraj",
+    "skill": 4
+},
+{
+    "id": 13,
+    "name": "Manay",
+    "skill": 3
+},
+{
+    "id": 14,
+    "name": "Gupta Ji",
+    "skill": 4
+},
+{
+    "id": 15,
+    "name": "Vedik",
+    "skill": 4
+},
+{
+    "id": 16,
+    "name": "Aarav",
+    "skill": 3
+},
+{
+    "id": 17,
+    "name": "Mradrul",
+    "skill": 2
+},
+{
+    "id": 18,
+    "name": "Random 1",
+    "skill": 3
+},
+{
+    "id": 19,
+    "name": "Random 2",
+    "skill": 3
+},
+{
+    "id": 20,
+    "name": "Random 3",
+    "skill": 3
+}
+]
