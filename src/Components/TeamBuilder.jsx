@@ -59,6 +59,7 @@ const TeamBuilder = ({ players }) => {
           marginBottom: '20px',
         }}
       >
+        <h1>No. Of Teams</h1>
         <input
           type="number"
           value={noTeam}
